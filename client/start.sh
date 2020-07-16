@@ -6,7 +6,7 @@ USER="${SUDO_USER:-${USER}}"
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # @Author      : Jason
-# @Contact     : casjaysdev@casjay.com
+# @Contact     : casjaysdev@casjay.net
 # @File        : start
 # @Created     : 09/03/2020
 # @License     : WTFPL
